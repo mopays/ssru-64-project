@@ -42,5 +42,10 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.2"
-  }
+  },
+  "description": "",
+  "main": "setupTests.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
