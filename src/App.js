@@ -137,7 +137,7 @@ function App() {
         alt="image 2"
         className="h-full w-full object-cover"
       />
-  <h1>aaaaaaaaaaaaaaaaaaaacseaaaaaabbbbbbbbbbbb</h1>
+
   </div>
 
 {/* ----------------section  end banner  ----------------  */}
