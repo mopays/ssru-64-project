@@ -6,13 +6,16 @@ import reportWebVitals from './reportWebVitals';
 import Itemsgrid from './components/itemsgrid';
 import Pagination from './components/Pagination';
 import Footer from './components/footer';
+import Navbar from './components/Navber';
+import Details from './pages/Details';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
-    <Itemsgrid/>
-    <Pagination/>
+    <Navbar />
+    <Details />
+  
+
     <Footer />
   </React.StrictMode>
 );

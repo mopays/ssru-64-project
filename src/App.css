@@ -48,7 +48,7 @@
 }
 hr{
   position: relative;
-  top: 10px;
+  top: 0px;
   border: none;
   height: 3px;
   background: black;
@@ -67,4 +67,8 @@ hr{
 
 .imgicons{
   margin: 0 auto;
+}
+.navbar{
+
+    background-image: linear-gradient( #E5EAEF,#23495D,#23495D,#23495D,#23495D,#23495D);
 }
