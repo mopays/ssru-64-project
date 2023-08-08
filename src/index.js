@@ -1,21 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Itemsgrid from './components/itemsgrid';
-import Pagination from './components/Pagination';
-import Footer from './components/footer';
-import Cart from './pages/Cart';
-import Navbar from './components/Navbar';
+import App from './App'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Navbar/>
-    <Cart/>
-    <Pagination/>
-    <Footer />
+    <App/>
   </React.StrictMode>
 );
 
