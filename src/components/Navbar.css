@@ -1,0 +1,10 @@
+nav ul{
+    background-image: linear-gradient( #23495D,#23495D,#23495D,#23495D,#23495D);
+}
+
+nav ul li a i{
+    color:#fff;
+}
+nav ul li a i:hover{
+    color:#23495D;
+}
