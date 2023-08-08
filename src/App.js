@@ -15,7 +15,7 @@ function App() {
     return(
       <div className="app">
         <Navbar/>
-        <Outlet/>
+        <Outlet/>asd
         <Footer/>
       </div>
     );
